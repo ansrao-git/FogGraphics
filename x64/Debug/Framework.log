@@ -1,0 +1,43 @@
+﻿  Base.cpp
+  Graphics.cpp
+  Main.cpp
+  OpenGEX.cpp
+  World.cpp
+  TSAlgebra.cpp
+  TSBezier.cpp
+  TSBivector3D.cpp
+  TSBivector4D.cpp
+  TSBox.cpp
+  TSColor.cpp
+  TSData.cpp
+  TSFlector4D.cpp
+  TSGraph.cpp
+  TSHalf.cpp
+  TSHash.cpp
+  TSList.cpp
+  TSMap.cpp
+  TSMath.cpp
+  TSMatrix2D.cpp
+  TSMatrix3D.cpp
+  TSMatrix4D.cpp
+  TSMotor4D.cpp
+  TSOpenDDL.cpp
+  TSQuaternion.cpp
+  TSString.cpp
+  TSText.cpp
+  TSTools.cpp
+  TSTree.cpp
+  TSTrivector4D.cpp
+  TSVector2D.cpp
+  TSVector3D.cpp
+  TSVector4D.cpp
+C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\Code\OpenGEX.cpp(2734,17): warning C4189: 'textureName': local variable is initialized but not referenced
+C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\Code\OpenGEX.cpp(2750,12): warning C4189: 'endParam': local variable is initialized but not referenced
+C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\Code\OpenGEX.cpp(2749,12): warning C4189: 'beginParam': local variable is initialized but not referenced
+C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\Code\OpenGEX.cpp(2756,12): warning C4189: 'scaleParam': local variable is initialized but not referenced
+C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\Code\OpenGEX.cpp(2757,12): warning C4189: 'linearParam': local variable is initialized but not referenced
+C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\Code\OpenGEX.cpp(2764,12): warning C4189: 'quadraticParam': local variable is initialized but not referenced
+C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\Code\OpenGEX.cpp(2763,12): warning C4189: 'scaleParam': local variable is initialized but not referenced
+C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\Code\OpenGEX.cpp(2775,11): warning C4189: 'endParam': local variable is initialized but not referenced
+C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\Code\OpenGEX.cpp(2781,11): warning C4189: 'endParam': local variable is initialized but not referenced
+  Framework.vcxproj -> C:\Users\anish\Desktop\FinalProject_Fog_AnishRao\FrameworkOpenGL.exe
